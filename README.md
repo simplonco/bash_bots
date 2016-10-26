@@ -1,5 +1,7 @@
-Cloner ou télécharger ce dépôt
+# Bash Bots
 
-Puis lancez dans le repertoire des sources :
+Cloner ou télécharger ce dépôt, puis lancez dans le repertoire des sources :
 
+```shell
 ./launch_bot.sh
+```
